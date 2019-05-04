@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background: #e9acac;
+    font-family:'Work Sans', sans-serif;
+    font-weight: 300;
+}
+  
+.container{
+    width: 100%;
+    margin:0 auto;
+}
+  
+header{
+    background:   skyblue;
+    text-align: center;
+    color: blueviolet;
+}
+
+  
+.logo{
+    float:right; 
+}
+  
+navbar{
+    float: left;
+}
